@@ -1,0 +1,7 @@
+1,1993,Dias Gomes s/a,1999,99,c:caminhos/natoas.pdf
+2,1754,Irm∆os Jouglard,2000,00,c:caminhos/jouglard.pdf
+3,34,Fabio Junior,2999,00,c:caminhos/fabio.pdf
+4,187,supermercado guanabara,190,00,c:caminhos/guanabara.pdf
+5,43,otavio,125,50,c:otavio.pdf
+6,1272,Thais Vargas LTDA,1960,90,c:caminhos/thais.pdf
+7,2139,Jo∆o Batista LTDA,200,00,C:caminhos/joao.pdf
